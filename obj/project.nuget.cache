@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XcVChh2EU3EEjQz966iVKnKXQmc+GhgWkgH1wlpGa6FpuEcz8KN2l6RFYChLjhyKwjoSlA2n7lyyBSf0f0hINw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jotil\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CelestiumMod\\CelestiumMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jotil\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

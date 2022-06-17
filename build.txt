@@ -1,0 +1,3 @@
+displayName = Celestium Mod
+author = Jay248
+version = 0.1
